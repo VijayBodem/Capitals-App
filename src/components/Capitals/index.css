@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.capitals-container {
+  background-color: #f8fafc;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 26px;
+}
+.question-container {
+  display: flex;
+}
+.question {
+  margin-left: 16px;
+}
+
+.country {
+  text-align: left;
+}
